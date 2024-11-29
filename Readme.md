@@ -6,6 +6,11 @@ A powerful, modern web application for comparing text differences using various 
 
 ![Demo Screenshot](demo.png)
 
+## Live App
+------------
+
+Try out the live app here: [https://valiantsin2021.github.io/Comparer-tool](https://valiantsin2021.github.io/Comparer-tool)
+
 ## Features
 
 - Multiple diff comparison modes:
