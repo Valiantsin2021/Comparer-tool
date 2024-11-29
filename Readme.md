@@ -4,7 +4,7 @@
 
 A powerful, modern web application for comparing text differences using various diff algorithms. This tool is inspired by the popular `diff` npm package and its online demo.
 
-![Demo Screenshot](demo.png)
+![Demo Screenshot](image.png)
 
 ## Live App
 ------------
